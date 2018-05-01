@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;main.GooglSearchPage.java&apos; to &apos;GoogleSearchPage.java&apos;&#x0D;&#x0A;- Original project: &apos;GoogleSearchAutomations&apos;&#x0D;&#x0A;- Original element: &apos;main.GooglSearchPage.java&apos;&#x0D;&#x0A;- Renamed element: &apos;main.GoogleSearchPage.java&apos;" description="Rename compilation unit &apos;GooglSearchPage.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;main{GooglSearchPage.java" name="GoogleSearchPage.java" references="false" stamp="1525214725344" version="1.0"/>
+</session>
